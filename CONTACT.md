@@ -1,4 +1,4 @@
-Пошта: group@example.com
+Пошта: ipz@uni.edu
 
 Група: З-41
 
